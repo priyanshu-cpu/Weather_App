@@ -63,12 +63,7 @@ python Weather_App.py
 ```
 
 4. Enter a city name and click **Get Weather** to see the current weather.
-
-## Screenshots
-
-![Weather App Screenshot](weather_app_ss.png)  
-
-
+   
 ## Error Handling
 
 The app handles common issues like:
